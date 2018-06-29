@@ -1,13 +1,14 @@
 body {
   background: #333;
   color: #fff; }
+  
 
 .navbar {
   border-bottom: #008ed6 3px solid;
   opacity: 0.8; }
 
 #home-section {
-  background: url("https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat;
+  background: url("tphf.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   min-height: 700px; }

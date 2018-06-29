@@ -4,6 +4,8 @@ $font-color:#fff;
 $primary-color:#008ed6;
 $dark-overlay:rgba(0,0,0,0.7);
 
+
+
 body{
   background: $bg-color;
   color:$font-color;
@@ -15,11 +17,11 @@ body{
 }
 
 #home-section{
-  background: url('https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat;
+  background: url('tphf.jpg') no-repeat;
   background-size:cover;
   background-attachment:fixed;
   min-height: 700px;
-
+}
 
 .home-inner{
   padding-top: 150px;
@@ -37,7 +39,7 @@ body{
 .card-form{
   opacity:0.8;
 }
-}
+
 
 
 #explore-section, #share-section{
