@@ -2239,7 +2239,8 @@ tbody.collapse.show {
   display: block;
   padding: 0.5rem 1rem; }
   .nav-link:focus, .nav-link:hover {
-    text-decoration: underline; }
+    font-weight: bold;
+    text-decoration: none; }
   .nav-link.disabled {
     color: #868e96; }
 
