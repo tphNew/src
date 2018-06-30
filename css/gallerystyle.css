@@ -11,13 +11,13 @@ body {
   background: url("gallerybackground.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 300px; }
+  min-height: 350px; }
   #home-section .home-inner {
     padding-top: 150px; }
   #home-section .dark-overlay {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 300px; }
+    min-height: 350px; }
