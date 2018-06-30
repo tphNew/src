@@ -1,0 +1,23 @@
+body {
+  background: #fff;
+  color: #fff; }
+
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8; }
+
+#home-section {
+  background: url("gallerybackground.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 300px; }
