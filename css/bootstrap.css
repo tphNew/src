@@ -2240,8 +2240,7 @@ tbody.collapse.show {
   padding: 0.5rem 1rem; }
   .nav-link:focus, .nav-link:hover {
     font-weight: bold;
-    text-decoration: none;
-    color: #fff; }
+    text-decoration: none;}
   .nav-link.disabled {
     color: #868e96; }
 
