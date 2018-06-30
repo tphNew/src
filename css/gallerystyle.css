@@ -1,4 +1,4 @@
-body {
+﻿body {
   background: #333;
   color: #fff; }
 
@@ -22,4 +22,17 @@ body {
     width: 100%;
     min-height: 350px; }
 
-    
+  #imh{
+	border:10px solid #33CCFF;
+	margin:0;
+}
+#imh:hover{
+	border:10px solid white;
+}
+#back{
+	
+	background-color:#66FFFF;
+}
+#back:hover{
+	background-color:#CCFFFF;
+}
