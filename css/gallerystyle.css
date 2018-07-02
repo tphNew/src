@@ -23,6 +23,7 @@
     min-height: 350px; }
 
   #imh{
+<<<<<<< HEAD
 	border:10px solid #444;
   border-radius: 2%;
 	margin:0;
@@ -35,4 +36,18 @@
 
 }
 #back:hover{
+=======
+	border:10px solid #33CCFF;
+	margin:0;
+}
+#imh:hover{
+	border:10px solid white;
+}
+#back{
+	
+	background-color:#66FFFF;
+}
+#back:hover{
+	background-color:#CCFFFF;
+>>>>>>> 980f53ceb6a0529d52e9416e6c49e5aa94f29f82
 }

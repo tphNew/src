@@ -34,3 +34,18 @@
   background: #fff;
   padding: 4px;
   border-radius: 5px; }
+  
+  
+  #abouthe{
+	font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;font-size:large;font-style:inherit;text-align:center;font-weight:bolder;
+}
+#aboutde{
+font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;font-size:medium;font-style:inherit;font-weight:lighter;text-align:center;
+}
+#grouphe{
+	font-family:"Bernard MT Condensed";font-size:20px;font-style:inherit;text-align:center;font-weight:bolder;
+}
+#groupde{
+font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;font-size:medium;font-style:inherit;font-weight:lighter;text-align:center;
+}
+
