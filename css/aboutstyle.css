@@ -1,0 +1,131 @@
+body {
+  background: #fff;
+  color: #111; }
+
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8; }
+
+#home-section {
+  background: url("tphf.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px; }
+  #home-section .home-inner {
+    padding-top: 100px; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 300px; }
+  #home-section .card-form {
+    opacity: 0.8; }
+
+#explore-section .fa, #share-section .fa {
+  color: white;
+  background-color: #333;
+  padding: 4px;
+  border-radius: 5px; }
+
+#create-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px; }
+
+  /* #bordered{
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.6);
+
+  } */
+
+#main-footer{
+  background-color: #343A40;
+}
+
+
+  #abouthe{
+	font-style:inherit;text-align:center;font-weight:bolder;
+  color: #fff;
+}
+#aboutde{
+font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;font-size:medium;font-style:inherit;font-weight:lighter;text-align:center;
+color: #D6EAF8;
+}
+#grouphe{
+  font-family: 'Encode Sans Condensed', sans-serif;font-size:40px;font-style:inherit;text-align:center;
+}
+#groupde{
+font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;font-size:20px;font-style:inherit;font-weight:lighter;text-align:center;
+}
+
+
+hr.style-two {
+      border: 0;
+      height: 2px;
+      background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+
+h1.elegant{
+font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+font-size: 72px;
+padding: 10px 50px;
+text-align: center;
+text-transform: uppercase;
+text-rendering: optimizeLegibility;
+}
+
+h1.elegantshadow {
+  color: #131313;
+  background-color: #e7e5e4;
+  letter-spacing: .15em;
+  text-shadow:
+    1px -1px 0 #767676,
+    -1px 2px 1px #737272,
+    -2px 4px 1px #767474,
+    -3px 6px 1px #787777,
+    -4px 8px 1px #7b7a7a,
+    -5px 10px 1px #7f7d7d,
+    -6px 12px 1px #828181,
+    -7px 14px 1px #868585,
+    -8px 16px 1px #E7E5E4,
+    -9px 18px 1px #E7E5E4,
+    -10px 20px 1px #E7E5E4,
+    -11px 22px 1px #E7E5E4,
+    -12px 24px 1px #E7E5E4,
+    -13px 26px 1px #E7E5E4,
+    -14px 28px 1px #E7E5E4,
+    -15px 30px 1px #E7E5E4,
+    -16px 32px 1px #E7E5E4,
+    -17px 34px 1px #E7E5E4,
+    -18px 36px 1px #E7E5E4,
+    -19px 38px 1px #E7E5E4,
+    -20px 40px 1px #E7E5E4,
+    -21px 42px 1px #E7E5E4,
+    -22px 44px 1px #E7E5E4,
+    -23px 46px 1px #E7E5E4,
+    -24px 48px 1px #E7E5E4,
+    -25px 50px 1px #E7E5E4,
+    -26px 52px 1px #E7E5E4,
+    -27px 54px 1px #E7E5E4,
+    -28px 56px 1px #E7E5E4;
+}
+
+.container_about {
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+}
+
+.container_about .content {
+    position: relative; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 20px; /* Some padding */
+}
